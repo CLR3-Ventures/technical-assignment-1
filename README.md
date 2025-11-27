@@ -25,18 +25,6 @@ We expect most candidates have **limited or no experience** with Redpanda/Kafka,
 - **25%** - Backend Processing (Rust RSI calculations)
 - **25%** - Frontend Dashboard (NextJS visualization)
 
-### Important Guidelines
-
-**No Support Provided:** We will not answer questions during the assignment to ensure fairness. Use AI tools, documentation, and research to resolve any ambiguities.
-
-**Interpretation Freedom:** If requirements are unclear, document your assumptions and proceed with the most reasonable interpretation. We value decisive problem-solving over perfect specification adherence.
-
-**Progress Over Perfection:** Submit whatever you accomplish. A working Phase 1 + 2 is more valuable than broken code across all phases.
-
-**AI Usage Expected:** Document your AI tool usage extensively. Effective AI collaboration is a core skill we're measuring.
-
-**Technology Requirements:** You MUST use the specified technologies (Docker, Redpanda, Rust, NextJS, TypeScript) exactly as listed. Do not substitute with alternatives (e.g., Kafka instead of Redpanda, Python instead of Rust, React instead of NextJS). This ensures fair evaluation since all candidates work with the same unfamiliar technology stack.
-
 ---
 
 ## Background
@@ -119,15 +107,6 @@ block_time,transaction_signature,block_num,program_id,trade_type,wallet_address,
 2. **Code Generation:** Generate boilerplate code, configuration files, and implementation scaffolds
 3. **Problem Solving:** Get help with specific technical challenges and debugging
 4. **Best Practices:** Ask for code review, optimization suggestions, and architectural guidance
-
----
-
-## Submission Requirements
-
-### Submission Method:
-1. Create a GitHub repository with your solution
-2. Record a 1-2 minute video demonstrating the working system of RSI data being produced into redpanda and the frontend.
-4. Submit the GitHub link and video to your point of contact email.
 
 ---
 
